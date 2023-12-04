@@ -8,5 +8,5 @@
     "criteria": "Complete course QA",
     "tags": ["subscriber", "reader"],
     "alignment": [ ],
-    "issuer": "https://github.com/Anton1403/badge/blob/main/issuer"
+    "issuer": "https://raw.githubusercontent.com/Anton1403/badge/main/issuer"
 }
