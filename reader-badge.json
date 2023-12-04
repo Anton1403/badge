@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://github.com/Anton1403/badge/blob/main/reader-badge.json",
+    "id": "https://raw.githubusercontent.com/Anton1403/badge/main/reader-badge.json",
     "type": "BadgeClass",
     "name": "Reader",
     "description": "Reader of SPG.",
@@ -8,5 +8,5 @@
     "criteria": "Complete course",
     "tags": ["subscriber", "reader"],
     "alignment": [ ],
-    "issuer": "https://github.com/Anton1403/badge/blob/main/issuer-organization.json"
+    "issuer": "https://raw.githubusercontent.com/Anton1403/badge/main/issuer-organization.json"
 }
