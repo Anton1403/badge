@@ -8,7 +8,18 @@
         "hashed": true,
         "identity": "sha256$7ACA6792A789F7228F81E25FC6BBFA653E42E9E4D115BCBDEED56695852F97F8"
     },
-    "badge": "https://raw.githubusercontent.com/Anton1403/badge/main/reader-badge.json",
+    "badge": {
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://raw.githubusercontent.com/Anton1403/badge/main/reader-badge.json",
+    "type": "BadgeClass",
+    "name": "Reader",
+    "description": "Reader of SPG.",
+    "image": "https://raw.githubusercontent.com/Anton1403/badge/main/SPG_Logo_oFAXGAm%20(1).svg",
+    "criteria": "https://tools.specific-group.com/",
+    "tags": ["subscriber", "reader"],
+    "alignment": [ ],
+    "issuer": "https://raw.githubusercontent.com/Anton1403/badge/main/issuer-organization.json"
+},
     "verification":
     {
         "type": "hosted"
