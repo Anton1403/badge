@@ -2,6 +2,6 @@
     "@context": "https://w3id.org/openbadges/v2",
     "id": "https://raw.githubusercontent.com/Anton1403/badge/main/issuer-organization.json",
     "type": "Issuer",
-    "name": "SPG",
-    "url": "https://www.specific-group.com/"
+    "name": "Thejesh GN",
+    "url": "https://thejeshgn.com"
 }
