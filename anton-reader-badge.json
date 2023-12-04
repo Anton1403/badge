@@ -6,7 +6,7 @@
     {
         "type": "email",
         "hashed": true,
-        "identity": "sha256$7ACA6792A789F7228F81E25FC6BBFA653E42E9E4D115BCBDEED56695852F97F8"
+        "identity": "sha256$D7D1C66E907B376AAA992B189DBE238F0A3AB4497C3C7F1282873AF43273A52F"
     },
     "badge": {
         "@context": "https://w3id.org/openbadges/v2",
