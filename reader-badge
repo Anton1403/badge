@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://github.com/Anton1403/badge/edit/main/reader-badge",
+    "id": "https://raw.githubusercontent.com/Anton1403/badge/main/reader-badge",
     "type": "BadgeClass",
     "name": "Reader",
     "description": "Reader of Specific-Group",
