@@ -1,7 +1,7 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
-    "id": "https://github.com/Anton1403/badge/blob/main/anton-reader-badge.json",
+    "id": "https://raw.githubusercontent.com/Anton1403/badge/main/anton-reader-badge.json",
     "recipient":
     {
         "type": "email",
