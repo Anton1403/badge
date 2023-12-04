@@ -12,7 +12,7 @@
         "@context": "https://w3id.org/openbadges/v2",
         "id": "https://raw.githubusercontent.com/Anton1403/badge/main/reader-badge.json",
         "type": "BadgeClass",
-        "name": "Reader",
+        "name": "Anton Belenik",
         "description": "Reader of SPG.",
         "image": "https://raw.githubusercontent.com/Anton1403/badge/main/SPG_Logo_oFAXGAm%20(1).svg",
         "criteria": {
