@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://raw.githubusercontent.com/Anton1403/badge/main/reader-badge",
+    "id": "https://github.com/Anton1403/badge/edit/main/reader-badge",
     "type": "BadgeClass",
     "name": "Reader",
     "description": "Reader of Specific-Group",
@@ -8,5 +8,5 @@
     "criteria": "Complete course QA",
     "tags": ["subscriber", "reader"],
     "alignment": [ ],
-    "issuer": "https://raw.githubusercontent.com/Anton1403/badge/main/issuer"
+    "issuer": "https://github.com/Anton1403/badge/blob/main/issuer"
 }
