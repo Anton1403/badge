@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "http://thejeshgn.github.io/openbadge/issuer-organization.json",
+    "id": "https://github.com/Anton1403/badge/blob/main/host.json",
     "type": "Issuer",
     "name": "Google",
     "url": "https://google.com"
