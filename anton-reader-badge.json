@@ -6,7 +6,7 @@
     {
         "type": "email",
         "hashed": true,
-        "identity": "sha256$2439c199971e44a07babc5854f5a7fae04028f1c85f492a70bddfa9f55d54130"
+        "identity": "sha256$7ACA6792A789F7228F81E25FC6BBFA653E42E9E4D115BCBDEED56695852F97F8"
     },
     "badge": "https://raw.githubusercontent.com/Anton1403/badge/main/reader-badge.json",
     "verification":
