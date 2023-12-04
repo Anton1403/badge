@@ -1,7 +1,0 @@
-{
-    "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://raw.githubusercontent.com/Anton1403/badge/main/host.json",
-    "type": "Issuer",
-    "name": "Google",
-    "url": "https://google.com"
-}
