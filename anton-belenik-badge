@@ -1,14 +1,14 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
-    "id": "https://thejeshgn.github.io/openbadge/thejeshgn-reader-badge.json",
+    "id": "https://raw.githubusercontent.com/Anton1403/badge/main/anton-belenik-badge",
     "recipient":
     {
         "type": "email",
         "hashed": true,
         "identity": "D7D1C66E907B376AAA992B189DBE238F0A3AB4497C3C7F1282873AF43273A52F"
     },
-    "badge": "https://thejeshgn.github.io/openbadge/reader-badge.json",
+    "badge": "https://raw.githubusercontent.com/Anton1403/badge/main/reader-badge",
     "verification":
     {
         "type": "hosted"
