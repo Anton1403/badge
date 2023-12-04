@@ -10,7 +10,6 @@
     },
     "badge": {
         "@context": "https://w3id.org/openbadges/v2",
-        "id": "https://raw.githubusercontent.com/Anton1403/badge/main/reader-badge.json",
         "type": "BadgeClass",
         "name": "Anton Belenik",
         "description": "Employee of SPG.",
@@ -20,13 +19,7 @@
         },
         "tags": ["subscriber", "reader"],
         "alignment": [ ],
-        "issuer": {
-            "@context": "https://w3id.org/openbadges/v2",
-            "id": "https://raw.githubusercontent.com/Anton1403/badge/main/issuer-organization.json",
-            "type": "Issuer",
-            "name": "Specific-Group",
-            "url": "https://www.specific-group.com/"
-        }
+        "issuer": "https://raw.githubusercontent.com/Anton1403/badge/main/issuer-organization.json"
 },
     "verification":
     {
