@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://github.com/Anton1403/badge/blob/main/issuer",
+    "id": "https://raw.githubusercontent.com/Anton1403/badge/main/issuer",
     "type": "Issuer",
     "name": "Specific-Group",
     "url": "https://www.specific-group.com"
